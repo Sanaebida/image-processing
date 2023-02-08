@@ -7,8 +7,8 @@ Install the required libraries
 Read, display and save an image,
 Apply elementary operations on an image(Addition, subtraction, Scalar multiplication, Translation, Rotation)
 Implemented and tested the following functions on the attached images:
--Histogram
--Cumulative histogram
+- Histogram
+- Cumulative histogram
 - Thresholding
 - Reverse image
 - Histogram equalization
