@@ -13,3 +13,12 @@ Implemented and tested the following functions on the attached images:
 - Reverse image
 - Histogram equalization
 - Exponential transformation
+# File TP3 TRAITEMENT D'IMAGE
+1 Contour detection using the second derivative of the Gaussian (Laplacian of the Gaussian)
+The Laplacian of the Gaussian helps correct the sensitivity to noise issues in the Laplacian method (second derivative).
+2 Edge detection using the Canny filter
+The steps of the Canny detector are:
+- Gaussian smoothing
+- Gradient computation
+- Non-maximum suppression
+- Hysteresis thresholding
